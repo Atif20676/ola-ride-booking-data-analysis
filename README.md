@@ -36,3 +36,20 @@ The project uses Ola ride booking data for July 2024.
 
 ## 👨‍💻 Author
 Aspiring Data Analyst | Excel | SQL | Power BI
+
+## 📸 Dashboard Preview
+
+### 1. Overall Dashboard
+![Ola Overall Dashboard](Ola_Overall.png)
+
+### 2. Vehicle Type Analysis
+![Ola Vehicle Type Dashboard](Ola_Vehicle_Type.png)
+
+### 3. Revenue Analysis
+![Ola Revenue Dashboard](Ola_Revenue.png)
+
+### 4. Cancellation Analysis
+![Ola Cancellation Dashboard](Ola_Cancellation.png)
+
+### 5. Ratings Analysis
+![Ola Ratings Dashboard](Ola_Ratings.png)
